@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue', Helvetica, Arial;
+}
+
+.sec {
+    display: flex;
+    width: 100%;
+}
+
+.div1 {
+    height: 100vh;
+    width: 60%;
+    background: linear-gradient(to right, #146c94, #19a7ce, #afd3e2, white);
+}
+
+.h1 {
+    font-size: 80px;
+    margin-top: 150px;
+    margin-left: 190px;
+}
+
+.h2 {
+    font-size: 50px;
+    margin-left: 110px;
+}
+
+.p {
+    font-size: 21px;
+    width: 1200px;
+    margin-left: 185px;
+    margin-top: 15px;
+}
+
+.div2 {
+    height: 100vh;
+    width: 40%;
+    background-color: white;
+}
+
+.eng {
+    font-size: 55px;
+    margin-top: 65px;
+    margin-left: 130px;
+}
+
+.sign {
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 210px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+
+.input {
+    width: 60%;
+    height: 35px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 20px;
+}
+
+.btt {
+    width: 60%;
+    height: 35px;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 15px;
+    background-color: rgba(9, 142, 243, 0.946);
+    border: none;
+    color: white;
+}
+
+.span {
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+.an {
+    margin-right: 75px;
+    margin-top: 5px;
+    text-decoration: none;
+    color: rgba(9, 142, 243, 0.946);
+}
+
+.in {
+    width: 60%;
+    height: 35px;
+    margin-top: 15px;
+    margin-left: 100px;
+    padding: 5px 95px;
+    font-size: 15px;
+    border: 1px solid rgba(9, 142, 243, 0.946);
+}
+
+.pn {
+    margin-left: 170px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.tn {
+    width: 60%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 100px;
+    padding: 5px 95px;
+    font-size: 15px;
+    border: 1px solid rgba(9, 142, 243, 0.946);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.mukul {
+    margin-left: 20px;
+}
+
+.anc {
+    text-decoration: none;
+    color: rgba(9, 142, 243, 0.946);
+}
